@@ -1,0 +1,85 @@
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\bin\Debug\compile.exe.config
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\bin\Debug\compile.exe
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\bin\Debug\compile.pdb
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.Form1.resources
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.Properties.Resources.resources
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.exe
+c:\users\me\documents\visual studio 2012\Projects\compile\compile\obj\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\bin\Debug\compile.exe.config
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\bin\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\bin\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.Form1.resources
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.Properties.Resources.resources
+C:\Users\UMAIR ABDUL RAHMAN\Downloads\compile\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\bin\Debug\compile.exe.config
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\bin\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\bin\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.Form1.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.Properties.Resources.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.Form2.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\CODE\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe.config
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.exe
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.pdb
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.pdb
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form1.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form2.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form3.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe.config
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form1.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form2.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form3.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Properties.Resources.resources
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+C:\Users\UMAIR ABDUL RAHMAN\Desktop\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form4.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe.config
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.exe
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\bin\Debug\compile.pdb
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csprojResolveAssemblyReference.cache
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form1.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form2.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form3.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Form4.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.Properties.Resources.resources
+C:\Users\UMAIR ABDUL RAHMAN\SSUET\5th Semester\Compiler\LEXICAL-ANALYZER\LEXICAL ANALYZER\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.exe.config
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.exe
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.pdb
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.exe
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.pdb
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form1.resources
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form2.resources
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form3.resources
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form4.resources
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Properties.Resources.resources
+E:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.exe.config
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.exe
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\bin\Debug\compile.pdb
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form1.resources
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form2.resources
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form3.resources
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Form4.resources
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.Properties.Resources.resources
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.csproj.GenerateResource.Cache
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.exe
+F:\LEXICAL-ANALYZER1\LEXICAL ANALYZER\compile\obj\Debug\compile.pdb
